@@ -1,0 +1,60 @@
+{
+  "language": "english",
+  "alphabet": "latin",
+
+  "topics": ["winter", "snow", "holiday spirit", "warmth", "nostalgia", "bells"],
+  "semantic": "cozy winter imagery; festive metaphors; gentle warm tone; sparkling atmosphere",
+  "genre": "holiday pop",
+  "subgenre": "christmas pop",
+
+  "forbidden-words": [],
+  "formatting": [],
+  "finalsteps": [
+    "add warm emotional imagery",
+    "highlight festive tone"
+  ],
+  "onomatopoeia": ["ding ding", "chiming bells", "jingle", "shoosh snow"],
+
+  "structure": {
+    "intro": {
+      "caption": "[INTRO — {style}, soft bells and warm pads]",
+      "content": "4 lines of festive onomatopoeia"
+    },
+    "verse1": {
+      "caption": "[VERSE 1 — nostalgic winter storytelling, {style}]",
+      "content": "2× 4 lines of soft winter imagery"
+    },
+    "bridge1": {
+      "caption": "[BRIDGE — choir lift and candlelight emotion, {style}]",
+      "content": "4 lines with warm metaphors"
+    },
+    "hook1": {
+      "caption": "[HOOK — catchy festive chorus, {style}]",
+      "content": "4 lines full of holiday feeling"
+    },
+    "verse2": {
+      "caption": "[VERSE 2 — snowflake continuation, {style}]",
+      "content": "2× 4 lines of winter atmosphere"
+    },
+    "bridge2": {
+      "caption": "[BRIDGE 2 — soft emotional reflection, {style}]",
+      "content": "4 warm nostalgic lines"
+    },
+    "hook2": {
+      "caption": "[HOOK 2 — repeat festive chorus, {style}]",
+      "content": "repeat(2, 4 lines)"
+    },
+    "cpart": {
+      "caption": "[C-PART — magical winter spark, {style}]",
+      "content": "4 lines with emotional climax"
+    },
+    "hook3": {
+      "caption": "[HOOK 3 — bright final chorus, {style}]",
+      "content": "repeat(2, 4 lines)"
+    },
+    "outro": {
+      "caption": "[OUTRO — {style}, fading bells and warm pads]",
+      "content": "4 lines of festive onomatopoeia"
+    }
+  }
+}

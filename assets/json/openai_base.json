@@ -1,0 +1,57 @@
+{
+  "language": "english",
+  "alphabet": "latin",
+
+  "topics": [],
+  "semantic": "",
+  "genre": "",
+  "subgenre": "",
+
+  "forbidden-words": [],
+  "formatting": [],
+  "finalsteps": [],
+  "onomatopoeia": [],
+
+  "structure": {
+    "intro": {
+      "caption": "[INTRO — {style}, soft atmospheric opening]",
+      "content": "4 lines of onomatopoeia"
+    },
+    "verse1": {
+      "caption": "[VERSE 1 — {style}]",
+      "content": "2× 4 lines of lyrics"
+    },
+    "bridge1": {
+      "caption": "[BRIDGE — emotional transition, {style}]",
+      "content": "4 lines of lyrics"
+    },
+    "hook1": {
+      "caption": "[HOOK — big melodic hook, {style}]",
+      "content": "4 lines of lyrics"
+    },
+    "verse2": {
+      "caption": "[VERSE 2 — {style}]",
+      "content": "2× 4 lines of lyrics"
+    },
+    "bridge2": {
+      "caption": "[BRIDGE 2 — reflective lift, {style}]",
+      "content": "4 lines of lyrics"
+    },
+    "hook2": {
+      "caption": "[HOOK 2 — repeat with variation, {style}]",
+      "content": "repeat(2, 4 lines of lyrics)"
+    },
+    "cpart": {
+      "caption": "[C-PART — dramatic twist moment, {style}]",
+      "content": "4 lines of lyrics with plot twist"
+    },
+    "hook3": {
+      "caption": "[HOOK 3 — finale hook, {style}]",
+      "content": "repeat(2, 4 lines of lyrics)"
+    },
+    "outro": {
+      "caption": "[OUTRO — {style}, fading textures]",
+      "content": "4 lines of onomatopoeia"
+    }
+  }
+}

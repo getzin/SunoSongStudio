@@ -1,0 +1,60 @@
+{
+  "language": "english",
+  "alphabet": "latin",
+
+  "topics": ["cats", "purring", "whiskers", "cozy vibes", "moonlight adventures"],
+  "semantic": "playful feline metaphors; soft purring imagery; gentle mischievous mood",
+  "genre": "cute pop",
+  "subgenre": "kawaii pop",
+
+  "forbidden-words": [],
+  "formatting": [],
+  "finalsteps": [
+    "ensure cat theme remains strong",
+    "wrap 4 cutest metaphors in round brackets"
+  ],
+  "onomatopoeia": ["nyan", "meow", "purr", "mrrr"],
+
+  "structure": {
+    "intro": {
+      "caption": "[INTRO — {style}, soft bells and cozy purr ambience]",
+      "content": "4 lines of feline-themed onomatopoeia"
+    },
+    "verse1": {
+      "caption": "[VERSE 1 — playful kitten energy, {style}]",
+      "content": "2× 4 lines of cute story lyrics"
+    },
+    "bridge1": {
+      "caption": "[BRIDGE — dreamy feline whisper, {style}]",
+      "content": "4 lines of dreamy metaphors"
+    },
+    "hook1": {
+      "caption": "[HOOK — kawaii chorus burst, {style}]",
+      "content": "4 bright lines full of cat energy"
+    },
+    "verse2": {
+      "caption": "[VERSE 2 — curious tail-swish mood, {style}]",
+      "content": "2× 4 lines expanding the story"
+    },
+    "bridge2": {
+      "caption": "[BRIDGE 2 — gentle tail-sway emotion, {style}]",
+      "content": "4 gentle emotional lines"
+    },
+    "hook2": {
+      "caption": "[HOOK 2 — repeat kawaii chorus, {style}]",
+      "content": "repeat(2, 4 lines)"
+    },
+    "cpart": {
+      "caption": "[C-PART — magical feline moment, {style}]",
+      "content": "4 lines with plot twist in cat world"
+    },
+    "hook3": {
+      "caption": "[HOOK 3 — big kawaii finale, {style}]",
+      "content": "repeat(2, 4 lines)"
+    },
+    "outro": {
+      "caption": "[OUTRO — {style}, fading purrs and bells]",
+      "content": "4 lines of soft onomatopoeia"
+    }
+  }
+}
